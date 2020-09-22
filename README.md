@@ -1,6 +1,6 @@
 ### Hi there I'm Ishita 👋
 
-[![Ishita's github stats](https://github-readme-stats.vercel.app/api?username=ishitajaiswal4m)](https://github.com/ishitajaiswal4m/github-readme-stats)
+[![Ishita's github stats](https://github-readme-stats.vercel.app/api?username=ishitajaiswal4m&hide=issues)]
 - 🔭 I’m working on Frontend Web Technology 
 - 🚀 I’m currently playing around with React JS
 - 🌱 Also dabbling around some open Source Projects
