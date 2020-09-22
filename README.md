@@ -1,8 +1,10 @@
 ### Hi there I'm Ishita 👋
 
+[![Ishita's github stats](https://github-readme-stats.vercel.app/api?username=ishitajaiswal4m)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m working on Frontend Web Technology 
-- 🌱 I’m currently playing around React JS
-- ⚡ Fun fact: I love to cook delicious food, as delicious as javascript.😄
+- 🚀 I’m currently playing around with React JS
+- 🌱 Also dabbling around some open Source Projects
+- ⚡ Fun fact: I love to cook food, food as delicious as javascript is.😄
 
 <!--
 **ishitajaiswal4m/ishitajaiswal4m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
