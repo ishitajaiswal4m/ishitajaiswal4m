@@ -6,7 +6,7 @@
 - 🌱 Also dabbling around some open Source Projects
 - ⚡ Fun fact: I love to cook food, food as delicious as javascript is.😄
 
-###  📫 Connect with me:
+<!-- ###  📫 Connect with me on : -->
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/
 
@@ -28,7 +28,7 @@ simple-icon
 
 >][twitter] -->
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons v3/icon/linkedin.svg" />][linkedin]
+
  
   <!-- [<img align="left" alt="codeSTACK
 
@@ -38,6 +38,6 @@ Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/
 
 <!-- simple-iconsav3/icons/instagram.svg" -->
 
-<br >
-
-[linkedin]: https://www.linkedin.com/in/ishita4m
+<!-- <br >
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons v3/icon/linkedin.svg" />][linkedin]
+[linkedin]: https://www.linkedin.com/in/ishita4m -->
