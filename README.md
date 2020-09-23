@@ -4,5 +4,5 @@
 - 🔭 I’m working on Frontend Web Technology 
 - 🚀 I’m currently playing around with React JS
 - 🌱 Also dabbling around some open Source Projects
-- ⚡ Fun fact: I love to cook food, food as delicious as javascript is.😄
-- 📫 Connect with me on: [Linkedin](https://www.linkedin.com/in/ishita4m/) 
+- ⚡ Fun fact: I love to cook food, food as delicious as javascript is.🤤
+- 📫 Connect with me on: [Linkedin](https://www.linkedin.com/in/ishita4m/) or [Email](mailto:ishitajaiswal4m@gmail.com)  
