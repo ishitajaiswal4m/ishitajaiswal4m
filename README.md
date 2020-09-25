@@ -1,4 +1,4 @@
-### Hello there, Namste🙏
+### Hello there, Namaste🙏
 
 ![Ishita's github stats](https://github-readme-stats.vercel.app/api?username=ishitajaiswal4m&hide=issues)
 - 🔭 I’m working on Frontend Web Technology 
