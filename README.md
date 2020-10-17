@@ -1,4 +1,4 @@
-<h1 align="left">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, Namaste🙏 </h1>
+<h1 align="left">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px"></h1>
 <!-- ### Hello there, Namaste🙏 -->
 
 ![Ishita's github stats](https://github-readme-stats.vercel.app/api?username=ishitajaiswal4m&hide=issues)
