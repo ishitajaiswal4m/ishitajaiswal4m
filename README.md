@@ -11,3 +11,5 @@
 ![Ishita's github stats](https://github-readme-stats.vercel.app/api?username=ishitajaiswal4m&hide=issues)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishitajaiswal4m&layout=compact)
+
+ <h4 align="center">Thanks❤️ for stopping by.🙋‍♀️</h4>
