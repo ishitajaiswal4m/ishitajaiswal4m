@@ -1,5 +1,4 @@
-<!-- <h1 align="left">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px"></h1> -->
-### Hello there, Namaste🙏
+<h1 align="left">Hello there, Namaste🙏</h1>
 
 ![Alt Text](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
 
