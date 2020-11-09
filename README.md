@@ -8,6 +8,6 @@
 - ⚡ Fun fact: I love to cook food, food as delicious as javascript is.🤤
 - 📫 Reach me out at: [Linked-in](https://www.linkedin.com/in/ishita4m/) |    [Email](mailto:ishitajaiswal4m@gmail.com) |  [Twitter](https://twitter.com/ishitajaiswal4m)
 
-![Ishita's github stats](https://github-readme-stats.vercel.app/api?username=ishitajaiswal4m&hide=issues)
+![Ishita's github stats](https://github-readme-stats.vercel.app/api?username=ishitajaiswal4m&hide=issues&theme=buefy)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishitajaiswal4m&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishitajaiswal4m&layout=compact&theme=buefy)
