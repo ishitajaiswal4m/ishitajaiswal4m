@@ -10,4 +10,4 @@
 
 ![Ishita's github stats](https://github-readme-stats.vercel.app/api?username=ishitajaiswal4m&hide=issues)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishitajaiswal4m&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishitajaiswal4m)
