@@ -8,6 +8,6 @@
 - ⚡ Fun fact: I love to cook food, food as delicious as javascript is.🤤
 - 📫 Reach me out at: [Linked-in](https://www.linkedin.com/in/ishita4m/) |    [Email](mailto:ishitajaiswal4m@gmail.com) |  [Twitter](https://twitter.com/ishitajaiswal4m)
 
-![Alt Text](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+![Alt Text](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishitajaiswal4m&layout=compact)
